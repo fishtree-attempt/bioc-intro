@@ -31,6 +31,9 @@
     <loc>https://preview.carpentries.org/bioc-intro/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/bioc-intro/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/bioc-intro/discuss.html</loc>
   </url>
   <url>
@@ -38,6 +41,9 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/bioc-intro/guide.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/bioc-intro/index.html</loc>
@@ -73,6 +79,9 @@
     <loc>https://preview.carpentries.org/bioc-intro/instructor/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/bioc-intro/instructor/discuss.html</loc>
   </url>
   <url>
@@ -82,7 +91,16 @@
     <loc>https://preview.carpentries.org/bioc-intro/instructor/guide.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/bioc-intro/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/bioc-intro/instructor/profiles.html</loc>
@@ -92,6 +110,12 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/bioc-intro/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/bioc-intro/profiles.html</loc>
