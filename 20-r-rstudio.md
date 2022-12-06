@@ -582,13 +582,13 @@ sessionInfo()
 ```
 
 ```{.output}
-R version 4.2.1 (2022-06-23)
+R version 4.2.2 Patched (2022-11-10 r83330)
 Platform: x86_64-pc-linux-gnu (64-bit)
-Running under: Ubuntu 20.04.5 LTS
+Running under: Ubuntu 22.04.1 LTS
 
 Matrix products: default
-BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.9.0
-LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.9.0
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 
 locale:
  [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
@@ -600,7 +600,7 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
- [1] compiler_4.2.1 magrittr_2.0.3 tools_4.2.1    stringi_1.7.8  highr_0.9     
+ [1] compiler_4.2.2 magrittr_2.0.3 tools_4.2.2    stringi_1.7.8  highr_0.9     
  [6] knitr_1.40     stringr_1.4.1  xfun_0.34      renv_0.16.0    evaluate_0.17 
 ```
 
