@@ -1,81 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro10-data-organisation.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/10-data-organisation.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro20-r-rstudio.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/20-r-rstudio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro23-starting-with-r.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/23-starting-with-r.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro25-starting-with-data.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/25-starting-with-data.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro30-dplyr.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/30-dplyr.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro40-visualization.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/40-visualization.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-intro60-next-steps.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/60-next-steps.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introCODE_OF_CONDUCT.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introLICENSE.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introdiscuss.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/aio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introindex.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/discuss.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/10-data-organisation.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/images.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/20-r-rstudio.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/index.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/23-starting-with-r.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/10-data-organisation.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/25-starting-with-data.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/20-r-rstudio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/30-dplyr.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/23-starting-with-r.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/40-visualization.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/25-starting-with-data.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/60-next-steps.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/30-dplyr.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/40-visualization.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/LICENSE.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/60-next-steps.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/discuss.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/index.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/profiles.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introinstructor/reference.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introprofiles.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-introreference.html</loc>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-intro/reference.html</loc>
   </url>
 </urlset>
