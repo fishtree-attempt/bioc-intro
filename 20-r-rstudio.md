@@ -600,8 +600,8 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
-[1] BiocManager_1.30.19 compiler_4.2.3      tools_4.2.3        
-[4] highr_0.10          knitr_1.42          xfun_0.37          
+[1] BiocManager_1.30.20 compiler_4.2.3      tools_4.2.3        
+[4] highr_0.10          knitr_1.42          xfun_0.38          
 [7] renv_0.17.2         evaluate_0.20      
 ```
 
